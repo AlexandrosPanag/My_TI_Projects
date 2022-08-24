@@ -6,6 +6,11 @@
 
 My MSP430F5529 archive, this LaunchPad was provided during the academic year 2020-2021 & 2021-2022 during the lessons Microprocessor Systems & Embedded Systems!
 ![](https://energia.nu/pinmaps/img/LaunchPadMSP430G2452-v1.5.jpg)
+
+----------
+GR:
+----------
+
 Ο κώδικας μπορεί να μεταγλωττιστεί στο πρόγραμμα energia.
 
 Energia:https://energia.nu/download/
@@ -15,6 +20,10 @@ https://github.com/AlexandrosPanag/My_Arduino_Projects, https://github.com/Alexa
 
 
 Driver software for energia:http://processors.wiki.ti.com/index.php/MSP_Debug_Stack#Windows
+
+----------
+EN:
+----------
 
 My archieve on the programming language for the microprocessor MSP430F5529!
 The code can be compiled on the Energia program
