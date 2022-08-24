@@ -4,7 +4,7 @@
 
 
 
-Τα αρχεία μου σε γλώσσα προγραμματισμού για μικροεπεξεργαστή MSP430F5529!
+My MSP430F5529 archive, this LaunchPad was provided during the academic year 2020-2021 & 2021-2022 during the lessons Microprocessor Systems & Embedded Systems!
 ![](https://energia.nu/pinmaps/img/LaunchPadMSP430G2452-v1.5.jpg)
 Ο κώδικας μπορεί να μεταγλωττιστεί στο πρόγραμμα energia.
 
