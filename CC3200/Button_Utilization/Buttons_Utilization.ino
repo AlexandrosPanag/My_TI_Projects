@@ -17,8 +17,8 @@
 // constants won't change. They're used here to 
 // set pin numbers:
 //if you want, you can modify one of the LEDs to light YELLOW_LED by adjusting the lines
-const int leftButton = PUSH1;
-const int rightButton = PUSH2;     // the number of the pushbutton pin
+const int leftButton = PUSH1; //initialize the right button
+const int rightButton = PUSH2;     // initialize the left button
 
 // variables will change:
 int rightbuttonState = 0;         // variable for reading the pushbutton status
@@ -28,30 +28,30 @@ void setup() {
   pinMode(RED_LED, OUTPUT);
   pinMode(GREEN_LED, OUTPUT);      
   // initialize the pushbutton pin as an input:
-  pinMode(rightButton, INPUT_PULLUP);
-  pinMode(leftButton, INPUT_PULLUP);     
+  pinMode(rightButton, INPUT_PULLUP); //declare the right button input
+  pinMode(leftButton, INPUT_PULLUP); //declare the left button input    
 }
 
 void loop(){
   // read the state of the pushbutton value:
-  rightbuttonState = digitalRead(rightButton);
-  leftbuttonState = digitalRead(leftButton);
+  rightbuttonState = digitalRead(rightButton); //declare the right button reading
+  leftbuttonState = digitalRead(leftButton); //declare the left button reading
   // check if the pushbutton is pressed.
   // if it is, the buttonState is HIGH:
   if (rightbuttonState == HIGH) {     
-    // turn LED on:    
+    // turn RED LED on:    
     digitalWrite(RED_LED, HIGH);  
   } 
   else {
-    // turn LED off:
+    // turn RED LED off:
     digitalWrite(RED_LED, LOW); 
   }
   if (leftbuttonState == HIGH) {     
-    // turn LED on:    
+    // turn GREEN LED on:    
     digitalWrite(GREEN_LED, HIGH);  
   } 
   else {
-    // turn LED off:
+    // turn GREEN LED off:
     digitalWrite(GREEN_LED, LOW); 
   }
 }
