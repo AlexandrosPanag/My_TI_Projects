@@ -38,19 +38,19 @@ void loop(){
   leftbuttonState = digitalRead(leftButton); //declare the left button reading
   // check if the pushbutton is pressed.
   // if it is, the buttonState is HIGH:
-  if (rightbuttonState == HIGH) {     
+  if (rightbuttonState == HIGH) { //if the right button is pressed    
     // turn RED LED on:    
     digitalWrite(RED_LED, HIGH);  
   } 
-  else {
+  else { //if the right button isn't pressed
     // turn RED LED off:
     digitalWrite(RED_LED, LOW); 
   }
-  if (leftbuttonState == HIGH) {     
+  if (leftbuttonState == HIGH) { //if the left button is pressed     
     // turn GREEN LED on:    
     digitalWrite(GREEN_LED, HIGH);  
   } 
-  else {
+  else { //if the left button isn't pressed
     // turn GREEN LED off:
     digitalWrite(GREEN_LED, LOW); 
   }
