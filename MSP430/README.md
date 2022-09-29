@@ -120,10 +120,4 @@ GR: Πρόγραμμα όπου ενεργοποιεί τον εσωτερικό
 
 EN: A program that can activate the internal thermal sensor of the MSP430 to show us the temperature and with the usage of the Buttons we can increase it/decrease it. This code was given as an assignment during the academic year of 2021-2022 in the lesson of Embedded Systems in the 7th Semester during the academic year 2021-2022.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-CC3200
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-GR: Το αρχείο μου που έχει βασιστεί πάνω στο CC3200 LaunchPad XL, το οποίο μου παρείχε το εργαστήριο Αυτόνομων Συστημάτων του Πανεπιστημίου Ιωαννίνων Τμήματος Πληροφορικής & Τηλεπικοινωνιών, για περισσότερες πληροφορίες για το εργαστήριο δείτε εδώ : https://asl.dit.uoi.gr
-
-EN: My archive which is based on the CC3200 LaunchPad XL, which was provided to me by the Autonomous Systems Laboratory of the University of Ioannina, Department of Informatics & Telecommunications, for more information you can check out the Laboratory here: https://asl.dit.uoi.gr
