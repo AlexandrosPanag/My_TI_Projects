@@ -4,7 +4,7 @@ Thinger.io connection establishment
 The code is available on APENDIX A & includes a full hands-on documentation on my Thesis: Internet of Things: Standards & Platforms.
 
 
-Available at: https://github.com/AlexandrosPanag/My_Thesis & 
+Available at: https://github.com/AlexandrosPanag/My_Thesis 
 
 ----------------------------------------------------------------------------------------------
 
