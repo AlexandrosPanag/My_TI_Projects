@@ -26,3 +26,5 @@ __Attribution__ — You must give appropriate credit, provide a link to the lice
 __NonCommercial__ — You may not use the material for commercial purposes.
 
 __NoDerivatives__ — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_Thesis/4a07d991aa8d050b572392139fddaee2d072059b/by-nc-nd.svg?token=AQS27JNSCEGMXHT5CMX5UXDDIBJG2)
