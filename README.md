@@ -10,8 +10,8 @@ This was originally taken from: https://www.ti.com/about-ti/company/ti-at-a-glan
 
 The codes can be compiled on the Energia program
 
-I highly encourage you to check out my Arduino & ESP Archive programs which are constantly updated and receive support & updates more frequently:
-https://github.com/AlexandrosPanag/My_Arduino_Projects, https://github.com/AlexandrosPanag/My_esp8266_Projects, https://github.com/AlexandrosPanag/My_ESP32_Projects
+I highly encourage you to check out my Arduino & Espressif Repositories which are constantly updated and receive support & updates more frequently:
+https://github.com/AlexandrosPanag/My_Arduino_Projects, https://github.com/AlexandrosPanag/My_Espressif_Systems
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
