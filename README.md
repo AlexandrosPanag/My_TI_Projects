@@ -17,14 +17,9 @@ https://github.com/AlexandrosPanag/My_Arduino_Projects, https://github.com/Alexa
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MSP430 - MSP430F5529
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GR: Το αρχείο μου που έχει βασιστεί πάνω στο MSP430F5529 LaunchPad XL, το οποίο μου παρείχαν τα μαθήματα Συστήματα Μικροεπεξεργαστών & Ενσωματωμένα Συστήματα του Πανεπιστημίου Ιωαννίνων, Τμήματος Πληροφορικής & Τηλεπικοινωνιών τις ακαδημαΪκές χρονίες 2020-2021 & 2021-2022
-
-EN: My archive which is based on the MSP430F5529 LaunchPad XL, that was provided to me by the lessons of Microprocessor Systems & Embedded Systems of the University of Ioannina, Department of Informatics & Telecommunications during the academic years 2020-2021 & 2021-2022
+ My archive which is based on the MSP430F5529 LaunchPad XL, that was provided to me by the lessons of Microprocessor Systems & Embedded Systems of the University of Ioannina, Department of Informatics & Telecommunications during the academic years 2020-2021 & 2021-2022
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CC3200
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-GR: Το αρχείο μου που έχει βασιστεί πάνω στο CC3200 LaunchPad XL, το οποίο μου παρείχε το εργαστήριο Αυτόνομων Συστημάτων του Πανεπιστημίου Ιωαννίνων Τμήματος Πληροφορικής & Τηλεπικοινωνιών, για περισσότερες πληροφορίες για το εργαστήριο δείτε εδώ : https://asl.dit.uoi.gr
-
-EN: My archive which is based on the CC3200 LaunchPad XL, which was provided to me by the Autonomous Systems Laboratory of the University of Ioannina, Department of Informatics & Telecommunications, for more information you can check out the Laboratory here: https://asl.dit.uoi.gr
+ My archive which is based on the CC3200 LaunchPad XL, which was provided to me by the Autonomous Systems Laboratory of the University of Ioannina, Department of Informatics & Telecommunications, for more information you can check out the Laboratory here: https://asl.dit.uoi.gr
