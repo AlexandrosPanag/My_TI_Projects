@@ -1,6 +1,11 @@
 # Ti-launch-pad-with-MSP430-MCU 
 ----------
 
+<img src="https://img.shields.io/bower/l/mi">
+
+
+Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
 
 TI at a glance
 Texas Instruments has been making progress possible for decades. They are a global semiconductor company that designs, manufactures, tests and sells analog and embedded processing chips. Our approximately 80,000 products help over 100,000 customers efficiently manage power, accurately sense and transmit data and provide the core control or processing in their designs, going into markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Their passion to create a better world by making electronics more affordable through semiconductors is alive today as each generation of innovation builds upon the last to make our technology smaller, more efficient, more reliable and more affordable – opening new markets and making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress. It’s what we do and have been doing for decades.  
