@@ -1,4 +1,4 @@
-# Ti-launch-pad-with-MSP430-MCU 
+# My Texas Instruments Projects
 ----------
 
 <img src="https://img.shields.io/bower/l/mi">
